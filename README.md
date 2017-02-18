@@ -1,5 +1,7 @@
 # HTML5 Tower Game Starter Kit by Christer Kaitila
 
+![HTML5 Tower Game Starter Kit](https://raw.github.com/mcfunkypants/TowerGameStarterKit/master/tgsk-logo.png)
+
 I am proud to announce my latest project: the Tower Game Starter Kit for cross-platform HTML5 strategy games.
 
 ## What is it?
