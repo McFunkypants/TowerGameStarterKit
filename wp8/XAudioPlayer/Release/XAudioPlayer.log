@@ -1,0 +1,23 @@
+﻿Build started 2013-09-26 8:57:41 PM.
+     1>Project "C:\Users\Christer\Desktop\TowerGameStarterKit\XAudioPlayer\XAudioPlayer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\CL.exe /c /IC:\Users\Christer\Desktop\TowerGameStarterKit\XAudioPlayer\ /I"Generated Files\\" /IRelease\ /AI"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata" /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /O2 /Oi /Oy- /GL /D _WINRT_DLL /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"Release\XAudioPlayer.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\CL.exe /c /IC:\Users\Christer\Desktop\TowerGameStarterKit\XAudioPlayer\ /I"Generated Files\\" /IRelease\ /AI"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata" /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /O2 /Oi /Oy- /GL /D _WINRT_DLL /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Release\XAudioPlayer.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt RandomAccessReader.cpp SoundFileReader.cpp XAudioPlayer.cpp
+         RandomAccessReader.cpp
+         SoundFileReader.cpp
+         XAudioPlayer.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Christer\Desktop\TowerGameStarterKit\Release\XAudioPlayer\XAudioPlayer.dll" /NOLOGO xaudio2.lib WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Christer\Desktop\TowerGameStarterKit\Release\XAudioPlayer\XAudioPlayer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /WINMD /WINMDFILE:"C:\Users\Christer\Desktop\TowerGameStarterKit\Release\XAudioPlayer\XAudioPlayer.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH /DLL Release\RandomAccessReader.obj
+         Release\SoundFileReader.obj
+         Release\XAudioPlayer.obj
+         Release\pch.obj
+            Creating library C:\Users\Christer\Desktop\TowerGameStarterKit\Release\XAudioPlayer\XAudioPlayer.lib and object C:\Users\Christer\Desktop\TowerGameStarterKit\Release\XAudioPlayer\XAudioPlayer.exp
+         Generating code
+         Finished generating code
+         XAudioPlayer.vcxproj -> C:\Users\Christer\Desktop\TowerGameStarterKit\Release\XAudioPlayer\XAudioPlayer.dll
+     1>Done Building Project "C:\Users\Christer\Desktop\TowerGameStarterKit\XAudioPlayer\XAudioPlayer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.91

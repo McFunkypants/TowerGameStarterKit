@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="42213McFunkypants.ThePeasantsareRevolting" Version="1.0.58.5" Publisher="CN=0DBCFE11-02BC-4CDF-B870-3B771E1EBFF8" />
+  <Properties>
+    <DisplayName>The Peasants are Revolting!</DisplayName>
+    <PublisherDisplayName>McFunkypants</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="index.html">
+      <VisualElements DisplayName="The Peasants are Revolting!" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="The Peasants are Revolting! A strategy game with tower defenses." ForegroundText="light" BackgroundColor="#156c99">
+        <DefaultTile ShowName="allLogos" ShortName="The Peasants are Revolting!" WideLogo="images\wide.png" />
+        <SplashScreen Image="images\splashscreen.png" BackgroundColor="#156c99" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+          <Rotation Preference="portraitFlipped" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>

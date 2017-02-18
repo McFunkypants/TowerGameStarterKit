@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAMEDEV</Machine>
+    <WindowsUser>Christer</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>0F5E3BFE82E7F87F57BD70EFD584E7B0744E74D41BADED06DB159AEB6C524AD5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>42213McFunkypants.ThePeasantsareRevolting_1.0.58.5_neutral__hjczf3nt049b0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>42213McFunkypants.ThePeasantsareRevolting_hjczf3nt049b0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>42213McFunkypants.ThePeasantsareRevolting</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=0DBCFE11-02BC-4CDF-B870-3B771E1EBFF8</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.58.5</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\wamp\www\TGSK\win8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-11T23:37:53.537</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-10-08T05:30:53.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\bounce.mp3">
+      <PackagePath>game-media\bounce.mp3</PackagePath>
+      <Modified>2013-07-18T21:54:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\intro.mp3">
+      <PackagePath>game-media\intro.mp3</PackagePath>
+      <Modified>2013-09-15T18:52:31.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\music.mp3">
+      <PackagePath>game-media\music.mp3</PackagePath>
+      <Modified>2013-08-29T17:12:53.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\sfx.mp3">
+      <PackagePath>game-media\sfx.mp3</PackagePath>
+      <Modified>2013-10-08T05:16:38.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\buildmenu.png">
+      <PackagePath>game-media\buildmenu.png</PackagePath>
+      <Modified>2013-09-02T00:59:47.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\cinematic.png">
+      <PackagePath>game-media\cinematic.png</PackagePath>
+      <Modified>2013-10-02T00:11:07.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\entities.png">
+      <PackagePath>game-media\entities.png</PackagePath>
+      <Modified>2013-09-02T06:05:07.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\font.png">
+      <PackagePath>game-media\font.png</PackagePath>
+      <Modified>2013-08-29T04:16:44.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\gui.png">
+      <PackagePath>game-media\gui.png</PackagePath>
+      <Modified>2013-09-12T04:11:33.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\lava.png">
+      <PackagePath>game-media\lava.png</PackagePath>
+      <Modified>2013-07-18T21:54:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\level-select-screen.png">
+      <PackagePath>game-media\level-select-screen.png</PackagePath>
+      <Modified>2013-09-14T16:58:18.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\level0.png">
+      <PackagePath>game-media\level0.png</PackagePath>
+      <Modified>2013-10-02T00:05:22.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\level1.png">
+      <PackagePath>game-media\level1.png</PackagePath>
+      <Modified>2013-10-02T00:05:15.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\level2.png">
+      <PackagePath>game-media\level2.png</PackagePath>
+      <Modified>2013-10-02T00:05:40.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\level3.png">
+      <PackagePath>game-media\level3.png</PackagePath>
+      <Modified>2013-10-02T00:05:30.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\map.png">
+      <PackagePath>game-media\map.png</PackagePath>
+      <Modified>2013-08-29T19:46:05.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\msgbox.png">
+      <PackagePath>game-media\msgbox.png</PackagePath>
+      <Modified>2013-09-02T19:08:14.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\parallax.png">
+      <PackagePath>game-media\parallax.png</PackagePath>
+      <Modified>2013-08-24T17:35:18.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\particles.png">
+      <PackagePath>game-media\particles.png</PackagePath>
+      <Modified>2013-09-15T18:47:24.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\tiles.png">
+      <PackagePath>game-media\tiles.png</PackagePath>
+      <Modified>2013-08-25T20:50:40.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\titlebackground.png">
+      <PackagePath>game-media\titlebackground.png</PackagePath>
+      <Modified>2013-08-29T17:30:03.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\titlescreen.png">
+      <PackagePath>game-media\titlescreen.png</PackagePath>
+      <Modified>2013-10-02T00:08:43.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\unit1.png">
+      <PackagePath>game-media\unit1.png</PackagePath>
+      <Modified>2013-08-29T21:38:17.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\unit2.png">
+      <PackagePath>game-media\unit2.png</PackagePath>
+      <Modified>2013-08-29T21:38:50.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\unit3.png">
+      <PackagePath>game-media\unit3.png</PackagePath>
+      <Modified>2013-08-29T21:39:05.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\unit4.png">
+      <PackagePath>game-media\unit4.png</PackagePath>
+      <Modified>2013-08-29T21:39:26.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\logo.scale-140.png">
+      <PackagePath>images\logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\logo.scale-180.png">
+      <PackagePath>images\logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\logo.scale-80.png">
+      <PackagePath>images\logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\smalllogo.scale-140.png">
+      <PackagePath>images\smalllogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\smalllogo.scale-180.png">
+      <PackagePath>images\smalllogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\smalllogo.scale-80.png">
+      <PackagePath>images\smalllogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:27.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\smalllogo.targetsize-16.png">
+      <PackagePath>images\smalllogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\smalllogo.targetsize-256.png">
+      <PackagePath>images\smalllogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\smalllogo.targetsize-32.png">
+      <PackagePath>images\smalllogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\smalllogo.targetsize-48.png">
+      <PackagePath>images\smalllogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:27.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\splashscreen.scale-140.png">
+      <PackagePath>images\splashscreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:27.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\splashscreen.scale-180.png">
+      <PackagePath>images\splashscreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:27.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\storelogo.scale-140.png">
+      <PackagePath>images\storelogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\storelogo.scale-180.png">
+      <PackagePath>images\storelogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\wide.scale-100.png">
+      <PackagePath>images\wide.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\wide.scale-140.png">
+      <PackagePath>images\wide.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\wide.scale-180.png">
+      <PackagePath>images\wide.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\images\wide.scale-80.png">
+      <PackagePath>images\wide.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-12T22:07:26.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\level0.js">
+      <PackagePath>game-media\level0.js</PackagePath>
+      <Modified>2013-09-13T22:01:14.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\level1.js">
+      <PackagePath>game-media\level1.js</PackagePath>
+      <Modified>2013-09-13T22:01:14.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\level2.js">
+      <PackagePath>game-media\level2.js</PackagePath>
+      <Modified>2013-09-13T22:01:14.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\game-media\level3.js">
+      <PackagePath>game-media\level3.js</PackagePath>
+      <Modified>2013-09-13T22:01:14.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-07-18T21:54:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\js\easystar.js">
+      <PackagePath>js\easystar.js</PackagePath>
+      <Modified>2013-09-12T22:13:45.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\js\hand.js">
+      <PackagePath>js\hand.js</PackagePath>
+      <Modified>2013-08-25T20:00:33.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\js\howler.js">
+      <PackagePath>js\howler.js</PackagePath>
+      <Modified>2013-08-17T23:02:06.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\js\jaws.js">
+      <PackagePath>js\jaws.js</PackagePath>
+      <Modified>2013-10-02T03:12:08.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\js\TowerGameStarterKit.js">
+      <PackagePath>js\TowerGameStarterKit.js</PackagePath>
+      <Modified>2013-10-11T23:45:46.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\js\tween.js">
+      <PackagePath>js\tween.js</PackagePath>
+      <Modified>2013-08-17T22:53:50.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2013-10-11T23:16:55.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\wamp\www\TGSK\win8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-11T23:37:53.482</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

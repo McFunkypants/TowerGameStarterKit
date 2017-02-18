@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="automapping-terrain.tsx"/>
+ <tileset firstgid="465" name="Props" tilewidth="32" tileheight="32">
+  <image source="levelprops.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="529" name="Plants" tilewidth="32" tileheight="32">
+  <image source="plants.png" width="416" height="416"/>
+ </tileset>
+ <tileset firstgid="698" name="Decorations" tilewidth="32" tileheight="32">
+  <image source="obj_misk_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1722" name="Buildings" tilewidth="32" tileheight="32">
+  <image source="build_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="2746" name="Nature" tilewidth="32" tileheight="32">
+  <image source="terrain_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Terrain" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlz1oFFEQx2cNESJKQPxAEQRRBBsLDdjZaBGFFKJREy8faqEprLQQSwsR5Gy0SODOTlE0mKjRJhaKlZWxsTVgKRJF8YPz/A9vhpubbMwK7i3iK37Z2903O+8/M+/NSzsRtUcikUgG7oE7OfsYB5NgomCdt1O0VsDpHGPA2p+BOnhXoPYxUAIj7vkoSNxzmzNL1vxZW9beBmbAzj/4xt9EczwqV62DKhgQzpjxd8EUGEZgBoUhMJfR31PRPJWEq+UDuNni3GuOLbbm7R7A2i+BPaCEgQeEI0mY+61Fcqj1zlrZ0VcKfDd1sCNnvZpf1nIdHAWHHL2mFsZM/q+K9rYU/TPy7iM1rweNH1+fUEPzG/HNvs5LDB4lwT6vdVAx+b0M1oG9YInhAQaskXET+HOKQk3a+fNcB/CuV+hLqWXWcZ9CfY2Ibx9r9q2+Lohdgpv3OenXNV0Sn92i1+tf7ea4BVwzz86CT4YvRnfdPH8t40+KvY81o77OgW+Un/a0Nd9t5vEwmT+3rHQZzc/dt7J+dy0177N5UTX53wc6MmpcCpbJePtba4bR52l00Pxas2xtgXa/D2gMrBbWsByscmyS8fvBRjAIDsq7lfKNDeCEYwgcBj3Oh4/lNko/g+VVA8co7L0+Dusp7EW+v7+lxlnA9jFmVrReTLF7hWfbxWeP8aE++fdkEu77qDVrgOFettnlahj0iw7f3+z5Rs8waXg7288qotHuwf3i+3gLtTPT4Cc1n8NmRftCOrSvs21N7Hm//wx+UOgD3s6e7atG4w1TM3n2vMVioDp8Hn1/r4u+OWf/ksLedQXsSrFb6Eyn8S9Ku5+L5k/PIHxve/wLsJvCXMepUdNlCuub9WsftOeBx7/532CaiteulEVfTebE953CCmruT2nzLpuxXRIDjmMtZey/huY469hOatRK0XOPRCKRSCQSify//AJ1svQ/
+  </data>
+ </layer>
+ <layer name="Plants" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1iEOgDAQRNGmh4IDgAM84AEPeODmjKkmqWky/JesqdpJttkNAQDK6WIIvWqIpTspY1TuSTX/NP+i3KtqM83/Nd+73g/VaZr/a74vvd+qxzS/y3xX6r/OyOAy3436bzMyuM83PKT//dd7LP1v7jGPfZXLZV/lYl8BAAAAgJ8XhA8UQQ==
+  </data>
+ </layer>
+ <layer name="Castle" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz1UOw0AAA9FNytz736rMzMyM00NEkboe6f3bxiillLK5nGNMHgUUUUIZFVQdv9d5X42PdTTQRAttdNC14H+Pj30MMMQIY0wwteD/jI9zLLDECmtssLXg/46PexxwxAlnXHC14P+Nj3c88MQLb3x+312/13mfw0cXAQQRQhgRRC34H+NjHAkkkUIaGWQt+K+UUkoppZRSSiml/rMv5Pcrcg==
+  </data>
+ </layer>
+ <layer name="Decorations" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1j0OgDAIhmGmbnoHfy6i7WG9l0uPUZrobLqACe+TfDuUJiACAAA85dm7Ah9R++7uybsCO33OZXDWV+C/AZEliayaTbMn72rsHdrzqcmaErB/2Iq8i1/12cnR32J0V+NbDXTvAQAAAPiXBuL7B44=
+  </data>
+ </layer>
+</map>

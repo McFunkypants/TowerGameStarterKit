@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="automapping-terrain.tsx"/>
+ <tileset firstgid="465" name="Props" tilewidth="32" tileheight="32">
+  <image source="levelprops.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="529" name="Plants" tilewidth="32" tileheight="32">
+  <image source="plants.png" width="416" height="416"/>
+ </tileset>
+ <tileset firstgid="698" name="Decorations" tilewidth="32" tileheight="32">
+  <image source="obj_misk_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1722" name="Buildings" tilewidth="32" tileheight="32">
+  <image source="build_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="2746" name="Nature" tilewidth="32" tileheight="32">
+  <image source="terrain_atlas.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Terrain" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <layer name="Plants" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztmDEOwjAMRaOuvQ8cAE7ABYAd2IEztOzADgwwAefrZ0CqUErbyHZi8JOsSBna/y3LceJcfKaZczPEPIutJA4L+F4iVg3+B9gfCuWmyJ0rc5l/vVnD2waxbfA4wv5YyP8V3m8E/gvoLRE7Qt2SdRBCXd8e6wFxJNQrWQch1PWdsJ4Rl4T1cnKH7wfi+af+NdG3V/3aed23V73O68mX8zqEmDnt26vazusQOHLalRR6FUdOOaCoUy39w6ezbVbvAsU3JPDppKhTLbWuRac2OO5GmuC4G2nC7kbx5w2DBi2zDBcx5/YU+JwRNNcDxfuiltnWB8X7os2MhmEYhgYqnXA8eA==
+  </data>
+ </layer>
+ <layer name="Castle" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz0USw0AAA8G1w5z//yrMzMyMk0fEPqymqu+SMd6Vc4zJo4AiSiijgqrj4RCfqvGxjgaaaKGNDroW/O/xsY8BhhhhjAmmFvyf8XGOBZZYYY0Nthb83/FxjwOOOOGMC64W/L/x8Y4Hnnjhjc/vu+v3uv/n8NFFAEGEEEYEUQv+x/gYRwJJpJBGBlkL/iullFJKKaWUUkoppZRSypu+oR8rcg==
+  </data>
+ </layer>
+ <imagelayer name="ai reference" width="64" height="32" visible="0">
+  <image source="ai-level2.png"/>
+ </imagelayer>
+ <layer name="Decorations" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztl70NwjAQha+IlLgAiQJqdmERNgAkmAOQoGEPWIEJkg0QC0BqzgVNJIODje4lvk9yaee98/04REosbgNpBXGZDeOcc+a4XDxiU+ZEVR7nm0iU7L3y8P9k77WQf4TcHRdEk0JaRRgjgDhKcYrUL7pK3/z7+mnOCbtvYYiWvFbGvW+aEc2z3/Uhs2XfO157g9FbFVn61huUcHzfxV3Hlfvvd/EjgRh8ogbxj9Kj7LyM9e+JBEp8Xeg7RZEEqT6sltTrAek+kFlznmxa5sq3+XYXzr02d39grceG3pDcsd6videeoiiKovyTFxv0JNw=
+  </data>
+ </layer>
+</map>

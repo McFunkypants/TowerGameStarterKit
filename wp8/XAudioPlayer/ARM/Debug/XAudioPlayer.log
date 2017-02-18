@@ -1,0 +1,21 @@
+﻿Build started 2013-10-06 2:27:24 PM.
+     1>Project "C:\wamp\www\TGSK\wp8\XAudioPlayer\XAudioPlayer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\x86_arm\CL.exe /c /IC:\wamp\www\TGSK\wp8\XAudioPlayer\ /I"Generated Files\\" /IARM\Debug\ /AI"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata" /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINRT_DLL /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"ARM\Debug\XAudioPlayer.pch" /Fo"ARM\Debug\\" /Fd"ARM\Debug\vc110.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\arm\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\x86_arm\CL.exe /c /IC:\wamp\www\TGSK\wp8\XAudioPlayer\ /I"Generated Files\\" /IARM\Debug\ /AI"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata" /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINRT_DLL /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"ARM\Debug\XAudioPlayer.pch" /Fo"ARM\Debug\\" /Fd"ARM\Debug\vc110.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\arm\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt RandomAccessReader.cpp SoundFileReader.cpp XAudioPlayer.cpp
+         RandomAccessReader.cpp
+         SoundFileReader.cpp
+         XAudioPlayer.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\x86_arm\link.exe /ERRORREPORT:PROMPT /OUT:"C:\wamp\www\TGSK\wp8\ARM\Debug\XAudioPlayer\XAudioPlayer.dll" /INCREMENTAL /NOLOGO xaudio2.lib WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"C:\wamp\www\TGSK\wp8\ARM\Debug\XAudioPlayer\XAudioPlayer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /WINMD /WINMDFILE:"C:\wamp\www\TGSK\wp8\ARM\Debug\XAudioPlayer\XAudioPlayer.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:ARM /DLL ARM\Debug\RandomAccessReader.obj
+         ARM\Debug\SoundFileReader.obj
+         ARM\Debug\XAudioPlayer.obj
+         ARM\Debug\pch.obj
+            Creating library C:\wamp\www\TGSK\wp8\ARM\Debug\XAudioPlayer\XAudioPlayer.lib and object C:\wamp\www\TGSK\wp8\ARM\Debug\XAudioPlayer\XAudioPlayer.exp
+         XAudioPlayer.vcxproj -> C:\wamp\www\TGSK\wp8\ARM\Debug\XAudioPlayer\XAudioPlayer.dll
+     1>Done Building Project "C:\wamp\www\TGSK\wp8\XAudioPlayer\XAudioPlayer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.92

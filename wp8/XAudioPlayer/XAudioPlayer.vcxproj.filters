@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>5fd0e509-b6ae-4f29-bd2a-4d2cc10f3aa0</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="XAudioPlayer.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="SoundFileReader.cpp" />
+    <ClCompile Include="RandomAccessReader.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="XAudioPlayer.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="DirectXSample.h" />
+    <ClInclude Include="SoundFileReader.h" />
+    <ClInclude Include="RandomAccessReader.h" />
+    <ClInclude Include="BasicMath.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Wavs\fire.wav">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="Wavs\hiss.wav">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="Wavs\bat-flapping.wav">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="Wavs\intro.wav">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="Wavs\mace.wav">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="Wavs\music.wav">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="Wavs\rumble.wav">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="Wavs\slowed.wav">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="Wavs\squishy-strike.wav">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="Wavs\water-blast.wav">
+      <Filter>Resources</Filter>
+    </Media>
+  </ItemGroup>
+</Project>

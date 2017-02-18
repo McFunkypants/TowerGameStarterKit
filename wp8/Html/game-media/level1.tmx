@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="16" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="AI" tilewidth="64" tileheight="64">
+  <image source="AI-DATA.png" width="256" height="256"/>
+ </tileset>
+ <imagelayer name="Terrain" width="32" height="16" visible="0">
+  <image source="terrain1.png"/>
+ </imagelayer>
+ <layer name="AI" width="32" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYmBgYBoimBEPpqf9uNxCD/uR+axY3EUJZsFjDiE7qOEGbGHJSkAeX/qghv3ExAO55hDjB2xxjs9s9DTBiBaGxGBsYU5OfFMrf6DrJ8VvyGqZqeQGepc7lKYrUuOfVmaM4sGHASmpA9Y=
+  </data>
+ </layer>
+</map>
